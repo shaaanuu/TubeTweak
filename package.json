@@ -4,7 +4,8 @@
   "description": "A Node.js YouTube downloader that uploads videos to the cloud for seamless editing before downloading.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/index.js"
   },
   "repository": {
     "type": "git",
