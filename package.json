@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/shaaanuu/TubeTweak#readme",
   "dependencies": {
-    "express": "^4.21.1"
+    "axios": "^1.8.1",
+    "express": "^4.21.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
