@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/Cloud%20Integration-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"></img>
 </p>
 
+**For some reasons, I never worked on this project.**
+
 **TubeTweak** is a YouTube downloader reimagined for efficiency and flexibility. Instead of downloading videos directly to your device, TubeTweak uploads them to the cloud, enabling you to tweak them—cut, trim, or edit—before downloading. This saves time and mobile data, ensuring you get exactly what you need!
 
 ## 🔧 Features:
